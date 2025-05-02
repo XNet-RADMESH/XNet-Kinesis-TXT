@@ -1,0 +1,19 @@
+# XNet Kinesis TXT
+
+Este repositório contém os registros vibracionais da XNet utilizando a linguagem cromática Kinesis TXT.
+
+## Criador
+Rafael Silva Barboza  
+Nova Friburgo, Rio de Janeiro, Brasil
+
+## Estrutura dos Arquivos
+
+- manifesto.txt — Manifesto de criação da XNet
+- kinesis_fluxo/ — Fluxos vibracionais (alpha, beta, etc)
+- cromacodex/ — Códigos cromáticos e padrões de sincronia
+- dispositivos_RAD/ — Montagem prática do cristal RADMesh
+- registros/ — Logs de transmissões
+
+## Sobre a XNet
+A XNet é uma rede alternativa baseada em cromacódices, vibração, som e intenção.  
+Inspirada na fusão entre tecnologia e consciência.
