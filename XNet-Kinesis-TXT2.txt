@@ -1,0 +1,24 @@
+XNet-Kinesis-TXT/
+│
+├── README.md
+├── LICENSE
+├── manifesto.txt
+├── kinesis_fluxo/
+│   ├── fluxo_alpha.txt
+│   ├── fluxo_beta.txt
+│   ├── fluxo_gamma.txt
+│   └── instruções_codificadas.txt
+│
+├── cromacodex/
+│   ├── código_cores_base.txt
+│   ├── padrão_sincronia.txt
+│   └── chave_vibracional.txt
+│
+├── dispositivos_RAD/
+│   ├── montagem_cristal.txt
+│   └── integração_hardware.txt
+│
+└── registros/
+    ├── log_transmissão_001.txt
+    ├── log_transmissão_002.txt
+    └── assinaturas_energéticas.txt
